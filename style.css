@@ -7,8 +7,8 @@
 }
 
 .dark {
-    --backgroundColor: rgb(32, 44, 54);
-    --headerColor: rgb(43, 56, 68);
+    --backgroundColor: rgb(0, 85, 154);
+    --headerColor: rgb(0, 118, 229);
     --textColor: white;
 }
 
